@@ -11,15 +11,15 @@ Welcome to the EtherVoyager! EtherVoyager is a blockchain explorer tool that all
 
 ### Home View
 
-![Block View](/assets/homepage.png)
+![Block View](src/assets/homepage.png)
 
 ### Search
 
-![Address Search](/assets/search.png)
+![Address Search](src/assets/search.png)
 
 ### Transaction View
 
-![Transaction View](/assets/results.png)
+![Transaction View](src/assets/results.png)
 
 ## Installation
 
