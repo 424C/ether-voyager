@@ -1,0 +1,18 @@
+.footer {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(7, 7, 96, 1) 35%,
+    rgb(23, 22, 56) 100%
+  );
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 1em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid white;
+}

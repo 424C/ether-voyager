@@ -1,0 +1,26 @@
+/* src/components/SearchBar/search-bar.css */
+.search-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.search-input {
+  width: 60%; /* Increase input width */
+  padding: 15px; /* Increase padding for larger input */
+  font-size: 1.2em; /* Increase font size */
+  margin-bottom: 10px; /* Add some space between input and button */
+}
+
+.search-button {
+  padding: 10px 20px;
+  font-size: 1.2em; /* Increase font size */
+  cursor: pointer;
+  width: 30%; /* Make the button wider */
+  background-color: #18254a; /* Example button color */
+  color: #fff; /* Button text color */
+  border: none;
+  border-radius: 5px;
+}

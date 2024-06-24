@@ -1,0 +1,36 @@
+/* src/components/HeroSection/hero-section.css */
+.hero {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #fafafa;
+  color: rgb(0, 0, 0);
+}
+
+.hero h1 {
+  margin-bottom: 20px;
+}
+
+.hero p {
+  margin-bottom: 30px;
+}
+.hero button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff; /* Change text color to white for better contrast */
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    #090979 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* src/components/HeroSection/hero-section.css */
+.hero-image {
+  max-width: 20%; /* Ensure the image is responsive and fits the container */
+  height: auto; /* Maintain the aspect ratio */
+  display: block; /* Ensure the image is block level to respect max-width */
+  margin: 20px auto 0; /* Add margin to the top and center the image horizontally */
+}
